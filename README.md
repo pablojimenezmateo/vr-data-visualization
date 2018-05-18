@@ -9,7 +9,7 @@ Features
 
 * You can drag, drop and resize the data using an HTC Vive controller
 * Poor man's camera, so you can develop without a VR headset
-* Hooked signals, you only need to copy the Template scense in the scenes folder and all the signals will be hooked to it
+* Hooked signals, you only need to copy the Template scene in the scenes folder and all the signals will be hooked to it
 * 3 examples implemented
 
 Using the examples
@@ -26,6 +26,8 @@ Examples
 **MatlabImport**: An example of a [Surfaceplot](https://es.mathworks.com/help/matlab/ref/surf.html) exported from Matlab to Godot (is the one in the example of the documentation).
 
 **RayTracer**: A raytracer scenario, the yellow sphere represents the router and if you touch the ground you can see all the paths that get to that point.
+
+Videos of the examples can be found on the following links: [Countries](https://www.youtube.com/watch?v=IMrD1QjOqII), [MatlabImporter](https://www.youtube.com/watch?v=53G5QqK0LJE) and [Raytracer](https://www.youtube.com/watch?v=uInngPAg3Aw).
 
 Controls
 -----------------------
