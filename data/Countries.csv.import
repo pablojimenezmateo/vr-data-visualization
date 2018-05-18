@@ -1,0 +1,15 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+valid=false
+
+[deps]
+
+source_file="res://data/Countries.csv"
+source_md5="68c5b58829115510e7c9348047bb4497"
+
+[params]
+
+compress=true
+delimiter=0
