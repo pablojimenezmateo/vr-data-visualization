@@ -2,7 +2,7 @@
 
 This project aims to bring an open source tool for people to visualize data in a virtual 3D environment.
 
-![ScreenShot](https://raw.github.com/gef3233/vr-data-visualization/master/data/Screenshot.png)
+![ScreenShot](https://github.com/pjimenezmateo/vr-data-visualization/raw/master/data/Screenshot.png)
 
 Features
 ---------------------
@@ -22,7 +22,9 @@ Examples
 -----------------------
 
 **Countries**: Is a simple scatter plot with data from the Wikipedia, using GDP, debt and population as axis, the color of the sphere corresponds to the continent it is in and the size of the sphere corresponds with the minimum wage.
+
 **MatlabImport**: An example of a [Surfaceplot](https://es.mathworks.com/help/matlab/ref/surf.html) exported from Matlab to Godot (is the one in the example of the documentation).
+
 **RayTracer**: A raytracer scenario, the yellow sphere represents the router and if you touch the ground you can see all the paths that get to that point.
 
 Controls
@@ -31,6 +33,7 @@ Controls
 Use only one controller.
 
 **Trigger**: While pressed the data will move and rotate according to the controller position.
+
 **Trackpad**: Press it to toggle on and off the scale mode. When on, slide your finger up on the trackpad to make the data bigger or down to make it smaller.
 
 Licensing
